@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-main브랜치에서 수정함!!!!!
-=======
-test파일에서도 첫째 줄 수정
->>>>>>> test-class
+main브랜치에서 수정함!!!!!a
+
 aaaaaaaaaaaaa
 bbbbbbbbbbbb
 cc
